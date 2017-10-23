@@ -4,4 +4,8 @@ Project to 2014/2015 Computer Networks course of Bachelors Degree in Computer Sc
 
 ## Goals
 
-Develop a Server to serve files to Clients using TCP/IP and UDP/IP in a multithreaded fashion.
+Develop a Server and Client to download/upload files TCP/IP and UDP/IP in a multithreaded fashion.
+
+## Project Group
+
+- @carboned4
